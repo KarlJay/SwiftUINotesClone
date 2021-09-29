@@ -104,6 +104,7 @@ struct TextView: UIViewRepresentable {
                 }
             }
         }
+// prior version
         
 //        func updateAttributedString() -> NSAttributedString {
 //            // single attribute version
